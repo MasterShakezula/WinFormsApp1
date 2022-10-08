@@ -11,6 +11,7 @@ namespace WinFormsApp1
         {
             Console.WriteLine("this works\n");
             button1.Text = "Yes";
+            //I really hope this works lol
         }
     }
 }
